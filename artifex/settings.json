@@ -1,0 +1,13 @@
+{
+  "eslint.enable": false,
+  "prettier.eslintIntegration": false,
+  "prettier.useTabs": false,
+  "prettier.printWidth": 100,
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "editor.renderWhitespace": "boundary",
+  "editor.insertSpaces": true,
+  "files.associations": {
+    "*.erb": "html"
+  }
+}
